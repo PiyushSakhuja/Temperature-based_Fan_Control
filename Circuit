@@ -1,0 +1,7 @@
+Circuit Diagram
+Connect the LCD to the Arduino using I2C pins:
+SDA to A4
+SCL to A5
+Connect the relay module's control pin to Arduino pin 2.
+Connect the temperature sensor to analog input A0.
+Ensure proper power connections for all components.
