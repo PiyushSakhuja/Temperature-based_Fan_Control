@@ -1,0 +1,12 @@
+# Components Used
+Arduino Board (e.g., Arduino Uno)
+<br>
+LiquidCrystal_I2C (16x2 LCD with I2C interface)
+<br>
+Relay Module (to control fan or other high-power devices)
+<br>
+Temperature Sensor (e.g., LM35)
+<br>
+Wires and Connectors
+<br>
+Breadboard (optional, for prototyping)
